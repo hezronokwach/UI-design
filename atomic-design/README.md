@@ -1,6 +1,5 @@
-# README for UI Design Projects
-
-This repository contains multiple Figma files showcasing various UI design tasks completed as part of the second quest of UI. Each task focuses on different aspects of user interface design, including atomic design principles, micro-interactions, design systems, and more.
+# ATOMIC DESIGN
+![](https://images.ctfassets.net/9qa6g0dkae5p/278kjYlYStuo3nfJQmeV5imigrated/a69f20560fd712349276c5cfc732e1f0/What_is_atomic_design___pillar_page_.png)
 
 ## Project Overview
 
